@@ -4,4 +4,4 @@ mpg <- ggplot2::mpg
 
 view(mpg)
 mpg2 <- mpg %>%
-  filter(manufacturer == "dodge")
+  filter(manufacturer == "audi")
